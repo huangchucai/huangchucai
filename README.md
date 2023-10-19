@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My visitor count is 
-![Visitor Count](https://profile-counter.glitch.me/lceihen/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/huangchucai/count.svg) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lceihen)](https://github.com/lceihen/github-readme-stats)  ![lceihen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lceihen&show_icons=true&theme=tokyonight)
